@@ -1,0 +1,14 @@
+---
+:id: 151377246
+:submitters:
+- :name: AARAV ANAND
+  :email: aanand43@wisc.edu
+- :name: PUSHPIT SINGH
+  :email: psingh76@wisc.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2022-11-30 03:19:22.015092000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2022-11-29 19:19:22.015092000 Z
+:status: processed
+:score: 41.0
